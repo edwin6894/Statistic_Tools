@@ -1,0 +1,14 @@
+Stati_Tools v1.0.1 - Quality Update
+
+🐛 Bug Fixes:
+- Fixed AutoUpdater.NET DLL and other DLL error
+- Fixed Mode operations not displaying
+- Fixed GUI spacing issues and window sizing
+
+✨ Improvements:
+- Better button sizing
+- Cleaner layout
+- Improved error handling
+
+📦 What's Next:
+- More statistical operations coming soon in future Updates! Stay Tuned!!
