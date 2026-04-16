@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
-    <url>https://github.com/edwin6894/Statistic_Tools/releases/download/v1.0.0/Statistic_ToolsV1.zip</url>
+    <version>1.0.0.1</version>
+    <url>https://github.com/edwin6894/Statistic_Tools/releases/download/v1.0.1_Stable/Statistic_ToolsV1.Stable.zip</url>
     <changelog>https://github.com/edwin6894/Statistic_Tools/releases</changelog>
     <mandatory>false</mandatory>
 </item>
